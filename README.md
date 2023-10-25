@@ -16,21 +16,6 @@ The goal of this Project was to answer the following questions:
 
 - [C](https://devdocs.io/c/) -to develop and create portable software systems
 
-## Getting Started
-
-How to use this project?
-
-search for .exe file
-
-```
-cd /RecipeManagementSystem/
-```
-
-open the .exe file
-
-```
-projectRecipe.exe
-```
 
 ## Usage
 
